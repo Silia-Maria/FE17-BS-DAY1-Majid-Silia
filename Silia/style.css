@@ -6,3 +6,9 @@
     width: 101% !important;
     border: 1px solid red;
 }
+
+.own-container {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid green;
+}
