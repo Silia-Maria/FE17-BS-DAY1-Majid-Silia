@@ -1,0 +1,8 @@
+.hover-box:hover {
+    background-color: hsla(50, 82%, 74%, 0.82);
+}
+
+.content {
+    width: 101% !important;
+    border: 1px solid red;
+}
